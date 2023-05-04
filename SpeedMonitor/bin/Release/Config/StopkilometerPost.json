@@ -1,0 +1,306 @@
+[
+  {
+    "upline": true,
+    "stationID": 0,
+    "railName": "FP_D0102_1",
+    "railOffset": 0.0,
+    "glb": 0.0,
+    "StationName": "线路起点"
+  },
+  {
+    "upline": true,
+    "stationID": 1,
+    "railName": "G0112",
+    "railOffset": 83.176021575927734,
+    "glb": 379.15917587280273,
+    "StationName": "泰山新村"
+  },
+  {
+    "upline": true,
+    "stationID": 2,
+    "railName": "G0210",
+    "railOffset": 108.38893508911133,
+    "glb": 1588.4795112609863,
+    "StationName": "泰冯路"
+  },
+  {
+    "upline": true,
+    "stationID": 3,
+    "railName": "G0308",
+    "railOffset": 87.116237640380859,
+    "glb": 4339.1421165466309,
+    "StationName": "高新开发区"
+  },
+  {
+    "upline": true,
+    "stationID": 4,
+    "railName": "G0406",
+    "railOffset": 84.088314056396484,
+    "glb": 7169.1107749938965,
+    "StationName": "信息工程大学"
+  },
+  {
+    "upline": true,
+    "stationID": 5,
+    "railName": "G0506",
+    "railOffset": 83.167392730712891,
+    "glb": 8570.1996192932129,
+    "StationName": "卸甲甸"
+  },
+  {
+    "upline": true,
+    "stationID": 6,
+    "railName": "G0606",
+    "railOffset": 86.314014434814453,
+    "glb": 10396.359912872314,
+    "StationName": "大厂"
+  },
+  {
+    "upline": true,
+    "stationID": 7,
+    "railName": "G0708",
+    "railOffset": 86.480129241943359,
+    "glb": 12547.538722991943,
+    "StationName": "葛塘"
+  },
+  {
+    "upline": true,
+    "stationID": 8,
+    "railName": "G0802",
+    "railOffset": 84.954029083251953,
+    "glb": 16429.038013458252,
+    "StationName": "长芦"
+  },
+  {
+    "upline": true,
+    "stationID": 9,
+    "railName": "G0910",
+    "railOffset": 84.0207633972168,
+    "glb": 17997.116466522217,
+    "StationName": "化工园"
+  },
+  {
+    "upline": true,
+    "stationID": 10,
+    "railName": "G1008",
+    "railOffset": 84.057598114013672,
+    "glb": 20884.184551239014,
+    "StationName": "六合开发区"
+  },
+  {
+    "upline": true,
+    "stationID": 11,
+    "railName": "G1110",
+    "railOffset": 70.2617301940918,
+    "glb": 22969.400402069092,
+    "StationName": "龙池"
+  },
+  {
+    "upline": true,
+    "stationID": 12,
+    "railName": "G1208",
+    "railOffset": 85.338802337646484,
+    "glb": 25335.500911712646,
+    "StationName": "雄州"
+  },
+  {
+    "upline": true,
+    "stationID": 13,
+    "railName": "G1306",
+    "railOffset": 83.261920928955078,
+    "glb": 26948.435749053955,
+    "StationName": "凤凰山公园"
+  },
+  {
+    "upline": true,
+    "stationID": 14,
+    "railName": "G1406",
+    "railOffset": 84.679119110107422,
+    "glb": 28422.866619110107,
+    "StationName": "方洲广场"
+  },
+  {
+    "upline": true,
+    "stationID": 15,
+    "railName": "G1512",
+    "railOffset": 84.496807098388672,
+    "glb": 34518.723369598389,
+    "StationName": "沈桥"
+  },
+  {
+    "upline": true,
+    "stationID": 16,
+    "railName": "G1610",
+    "railOffset": 84.038021087646484,
+    "glb": 39488.319271087646,
+    "StationName": "八百桥"
+  },
+  {
+    "upline": true,
+    "stationID": 17,
+    "railName": "G1712",
+    "railOffset": 85.338581085205078,
+    "glb": 44963.651081085205,
+    "StationName": "金牛湖"
+  },
+  {
+    "upline": true,
+    "stationID": 18,
+    "railName": "G1716",
+    "railOffset": 0.0,
+    "glb": 45299.43359375,
+    "StationName": "线路终点"
+  },
+  {
+    "upline": false,
+    "stationID": 18,
+    "railName": "G1715",
+    "railOffset": 0.0,
+    "glb": 45301.2109375,
+    "StationName": "线路起点"
+  },
+  {
+    "upline": false,
+    "stationID": 1,
+    "railName": "G0113",
+    "railOffset": 4.6032648086547852,
+    "glb": 301.23076725006104,
+    "StationName": "泰山新村"
+  },
+  {
+    "upline": false,
+    "stationID": 2,
+    "railName": "G0207",
+    "railOffset": 30.682980537414551,
+    "glb": 1528.3126192092896,
+    "StationName": "泰冯路"
+  },
+  {
+    "upline": false,
+    "stationID": 3,
+    "railName": "G0303",
+    "railOffset": 9.6560983657836914,
+    "glb": 4261.2664499282837,
+    "StationName": "高新开发区"
+  },
+  {
+    "upline": false,
+    "stationID": 4,
+    "railName": "G0407",
+    "railOffset": 7.5006418228149414,
+    "glb": 7092.8287668228149,
+    "StationName": "信息工程大学"
+  },
+  {
+    "upline": false,
+    "stationID": 5,
+    "railName": "G0507",
+    "railOffset": 9.3287849426269531,
+    "glb": 8493.679370880127,
+    "StationName": "卸甲甸"
+  },
+  {
+    "upline": false,
+    "stationID": 6,
+    "railName": "G0607",
+    "railOffset": 8.529083251953125,
+    "glb": 10321.909942626953,
+    "StationName": "大厂"
+  },
+  {
+    "upline": false,
+    "stationID": 7,
+    "railName": "G0709",
+    "railOffset": 9.4908275604248047,
+    "glb": 12472.907819747925,
+    "StationName": "葛塘"
+  },
+  {
+    "upline": false,
+    "stationID": 8,
+    "railName": "G0803",
+    "railOffset": 7.2294387817382813,
+    "glb": 16352.703071594238,
+    "StationName": "长芦"
+  },
+  {
+    "upline": false,
+    "stationID": 9,
+    "railName": "G0915",
+    "railOffset": 6.515716552734375,
+    "glb": 17920.015716552734,
+    "StationName": "化工园"
+  },
+  {
+    "upline": false,
+    "stationID": 10,
+    "railName": "G1009",
+    "railOffset": 6.1577157974243164,
+    "glb": 20807.720215797424,
+    "StationName": "六合开发区"
+  },
+  {
+    "upline": false,
+    "stationID": 11,
+    "railName": "G1111",
+    "railOffset": 21.221808433532715,
+    "glb": 22892.813605308533,
+    "StationName": "龙池"
+  },
+  {
+    "upline": false,
+    "stationID": 12,
+    "railName": "G1209",
+    "railOffset": 7.6741189956665039,
+    "glb": 25259.312790870667,
+    "StationName": "雄州"
+  },
+  {
+    "upline": false,
+    "stationID": 13,
+    "railName": "G1303",
+    "railOffset": 6.2510089874267578,
+    "glb": 26867.917024612427,
+    "StationName": "凤凰山公园"
+  },
+  {
+    "upline": false,
+    "stationID": 14,
+    "railName": "G1407",
+    "railOffset": 7.1210918426513672,
+    "glb": 28341.814451217651,
+    "StationName": "方洲广场"
+  },
+  {
+    "upline": false,
+    "stationID": 15,
+    "railName": "G1509",
+    "railOffset": 3.8638286590576172,
+    "glb": 34441.809141159058,
+    "StationName": "沈桥"
+  },
+  {
+    "upline": false,
+    "stationID": 16,
+    "railName": "G1611",
+    "railOffset": 6.80332088470459,
+    "glb": 39412.838477134705,
+    "StationName": "八百桥"
+  },
+  {
+    "upline": false,
+    "stationID": 17,
+    "railName": "G1709",
+    "railOffset": 4.9593019485473633,
+    "glb": 44886.549145698547,
+    "StationName": "金牛湖"
+  },
+  {
+    "upline": false,
+    "stationID": 0,
+    "railName": "FP_D0101_1",
+    "railOffset": 0.0,
+    "glb": -0.39472198486328125,
+    "StationName": "线路终点"
+  }
+]

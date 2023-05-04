@@ -1,0 +1,30 @@
+﻿生成启动时间为 2022/11/17 14:27:46。
+     1>项目“C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\SpeedMonitor.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Debug /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCharts /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtNetwork /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtXml /I..\..\ChartWidget\include /I..\source /I..\..\3thdPart\include /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_CHARTS_LIB /D QT_CORE_LIB /D QT_GUI_LIB /D QT_NETWORK_LIB /D QT_WIDGETS_LIB /D QT_XML_LIB /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\\" /Fd"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\NetWorkManager.cpp
+         NetWorkManager.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\bin\Debug\\SpeedMonitor.exe" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib /LIBPATH:..\..\ChartWidget\lib\Debug /LIBPATH:..\..\3thdPart\lib qtmaind.lib Qt5Chartsd.lib Qt5Cored.lib Qt5Guid.lib Qt5Networkd.lib Qt5Widgetsd.lib Qt5Xmld.lib ChartWidget_d.lib BusClientv3.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\bin\Debug\SpeedMonitor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\bin\Debug\SpeedMonitor.lib" /MACHINE:X86 /SAFESEH "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\SpeedMonitor.res"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\main.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\NetWorkManager.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\SpeedMonitor.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\ToolWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\TrainEntity.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\TrainManagement.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\WindowCtrlWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\moc_SpeedMonitor.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\moc_WindowCtrlWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\moc_NetWorkManager.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\moc_ToolWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\moc_TrainManagement.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\obj\Debug\qrc_SpeedMonitor.obj"
+         SpeedMonitor.vcxproj -> C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\\..\bin\Debug\SpeedMonitor.exe
+       PostBuildEvent:
+         copy "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\..\..\ChartWidget\lib\Debug\ChartWidget_d.dll" "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\..\bin\Debug\"
+         :VCEnd
+         已复制         1 个文件。
+     1>已完成生成项目“C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\SpeedMonitor\project\SpeedMonitor.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.96

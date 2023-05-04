@@ -1,0 +1,23 @@
+﻿生成启动时间为 2022/11/17 10:39:28。
+     1>项目“C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\ChartWidget.vcxproj”在节点 2 上(Build 个目标)。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(363,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.7.0\5.7\msvc2013\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCharts /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtCore /I../include /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtGui /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtWidgets /IC:\Qt\Qt5.7.0\5.7\msvc2013\include\QtANGLE /I..\source /Zi /nologo /W1 /WX- /MP /Od /Oy- /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CHARTS_LIB /D QT_CORE_LIB /D CHARTWIDGET_LIB /D _WINDLL /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\\" /Fd"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\source\ChartWidget.cpp ..\source\StaionLabel.cpp .\GeneratedFiles\Release\moc_ChartWidget.cpp .\GeneratedFiles\Release\moc_StaionLabel.cpp
+         ChartWidget.cpp
+         StaionLabel.cpp
+         moc_ChartWidget.cpp
+         moc_StaionLabel.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\lib\Release\\ChartWidget.dll" /NOLOGO /LIBPATH:C:\Qt\Qt5.7.0\5.7\msvc2013\lib qtmain.lib Qt5Charts.lib Qt5Core.lib Qt5Gui.lib Qt5Widgets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\lib\Release\ChartWidget.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\lib\Release\ChartWidget.lib" /MACHINE:X86 /SAFESEH /DLL "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\ChartViewImp.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\ChartWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\StaionLabel.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\moc_ChartWidget.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\moc_StaionLabel.obj"
+         "C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\obj\Release\moc_ChartViewImp.obj"
+         ChartWidget.vcxproj -> C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\..\lib\Release\ChartWidget.dll
+     1>已完成生成项目“C:\Users\yangl\Documents\borui（博瑞时代）\3、通用代码\SpeedMonitor\ChartWidget\project\ChartWidget.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.71

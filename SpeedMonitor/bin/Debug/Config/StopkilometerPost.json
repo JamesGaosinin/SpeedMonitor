@@ -1,0 +1,322 @@
+[
+  {
+    "upline": true,
+    "stationID": 0,
+    "railName": "G0502",
+    "railOffset": 0.0,
+    "glb": 0.0,
+    "StationName": "线路起点"
+  },
+  {
+    "upline": true,
+    "stationID": 1,
+    "railName": "G0510",
+    "railOffset": 119.33458375930786,
+    "glb": 491.33964967727661,
+    "StationName": "龙江"
+  },
+  {
+    "upline": true,
+    "stationID": 2,
+    "railName": "G0602",
+    "railOffset": 571.34251832962036,
+    "glb": 2016.3600964546204,
+    "StationName": "草场门·南艺·二师"
+  },
+  {
+    "upline": true,
+    "stationID": 3,
+    "railName": "G0706",
+    "railOffset": 121.39226961135864,
+    "glb": 3876.4354825019836,
+    "StationName": "云南路"
+  },
+  {
+    "upline": true,
+    "stationID": 4,
+    "railName": "G0802",
+    "railOffset": 445.42342042922974,
+    "glb": 4690.47273683548,
+    "StationName": "鼓楼"
+  },
+  {
+    "upline": true,
+    "stationID": 5,
+    "railName": "G0902",
+    "railOffset": 554.46208620071411,
+    "glb": 6059.5289807319641,
+    "StationName": "鸡鸣寺"
+  },
+  {
+    "upline": true,
+    "stationID": 6,
+    "railName": "G1002",
+    "railOffset": 406.498676776886,
+    "glb": 6866.577290058136,
+    "StationName": "九华山"
+  },
+  {
+    "upline": true,
+    "stationID": 7,
+    "railName": "G1104",
+    "railOffset": 122.53609895706177,
+    "glb": 8356.6318020820618,
+    "StationName": "岗子村"
+  },
+  {
+    "upline": true,
+    "stationID": 8,
+    "railName": "G1206",
+    "railOffset": 124.57915163040161,
+    "glb": 10264.698292255402,
+    "StationName": "蒋王庙"
+  },
+  {
+    "upline": true,
+    "stationID": 9,
+    "railName": "G1302",
+    "railOffset": 402.64378786087036,
+    "glb": 11426.77171754837,
+    "StationName": "王家湾"
+  },
+  {
+    "upline": true,
+    "stationID": 10,
+    "railName": "G1402",
+    "railOffset": 545.70183229446411,
+    "glb": 14188.869801044464,
+    "StationName": "聚宝山"
+  },
+  {
+    "upline": true,
+    "stationID": 11,
+    "railName": "G1504",
+    "railOffset": 121.76982545852661,
+    "glb": 16716.976856708527,
+    "StationName": "徐庄·苏宁总部"
+  },
+  {
+    "upline": true,
+    "stationID": 12,
+    "railName": "G1604",
+    "railOffset": 458.84807252883911,
+    "glb": 19259.080494403839,
+    "StationName": "金马路"
+  },
+  {
+    "upline": true,
+    "stationID": 13,
+    "railName": "G1706",
+    "railOffset": 120.94006013870239,
+    "glb": 22514.215450763702,
+    "StationName": "汇通路"
+  },
+  {
+    "upline": true,
+    "stationID": 14,
+    "railName": "G1802",
+    "railOffset": 556.97758913040161,
+    "glb": 23605.2607922554,
+    "StationName": "灵山"
+  },
+  {
+    "upline": true,
+    "stationID": 15,
+    "railName": "G1906",
+    "railOffset": 133.28125429153442,
+    "glb": 25672.593754291534,
+    "StationName": "东流"
+  },
+  {
+    "upline": true,
+    "stationID": 16,
+    "railName": "G2002",
+    "railOffset": 557.10667848587036,
+    "glb": 27891.44456911087,
+    "StationName": "孟北"
+  },
+  {
+    "upline": true,
+    "stationID": 17,
+    "railName": "G2102",
+    "railOffset": 590.98808717727661,
+    "glb": 30302.357227802277,
+    "StationName": "西岗桦墅"
+  },
+  {
+    "upline": true,
+    "stationID": 18,
+    "railName": "G2206",
+    "railOffset": 123.22542238235474,
+    "glb": 33509.635578632355,
+    "StationName": "仙林湖"
+  },
+  {
+    "upline": true,
+    "stationID": 19,
+    "railName": "G2208",
+    "railOffset": 0.0,
+    "glb": 33800.4140625,
+    "StationName": "线路终点"
+  },
+  {
+    "upline": false,
+    "stationID": 19,
+    "railName": "G2207",
+    "railOffset": 0.0,
+    "glb": 33800.69140625,
+    "StationName": "线路起点"
+  },
+  {
+    "upline": false,
+    "stationID": 1,
+    "railName": "G0509",
+    "railOffset": 3.7530407905578613,
+    "glb": 377.55513429641724,
+    "StationName": "龙江"
+  },
+  {
+    "upline": false,
+    "stationID": 2,
+    "railName": "G0603",
+    "railOffset": 5.1140408515930176,
+    "glb": 1895.9491238594055,
+    "StationName": "草场门·南艺·二师"
+  },
+  {
+    "upline": false,
+    "stationID": 3,
+    "railName": "G0705",
+    "railOffset": 6.78712797164917,
+    "glb": 3764.6648135185242,
+    "StationName": "云南路"
+  },
+  {
+    "upline": false,
+    "stationID": 4,
+    "railName": "G0805",
+    "railOffset": 3.779517650604248,
+    "glb": 4581.6750254631042,
+    "StationName": "鼓楼"
+  },
+  {
+    "upline": false,
+    "stationID": 5,
+    "railName": "G0905",
+    "railOffset": 6.5435261726379395,
+    "glb": 5945.4697957038879,
+    "StationName": "鸡鸣寺"
+  },
+  {
+    "upline": false,
+    "stationID": 6,
+    "railName": "G1005",
+    "railOffset": 7.3453221321105957,
+    "glb": 6754.2891697883606,
+    "StationName": "九华山"
+  },
+  {
+    "upline": false,
+    "stationID": 7,
+    "railName": "G1105",
+    "railOffset": 7.9299015998840332,
+    "glb": 8233.902557849884,
+    "StationName": "岗子村"
+  },
+  {
+    "upline": false,
+    "stationID": 8,
+    "railName": "G1205",
+    "railOffset": 9.67673921585083,
+    "glb": 10139.689434528351,
+    "StationName": "蒋王庙"
+  },
+  {
+    "upline": false,
+    "stationID": 9,
+    "railName": "G1303",
+    "railOffset": 6.0362029075622559,
+    "glb": 11310.073312282562,
+    "StationName": "王家湾"
+  },
+  {
+    "upline": false,
+    "stationID": 10,
+    "railName": "G1405",
+    "railOffset": 3.9824471473693848,
+    "glb": 14075.080103397369,
+    "StationName": "聚宝山"
+  },
+  {
+    "upline": false,
+    "stationID": 11,
+    "railName": "G1505",
+    "railOffset": 6.59749174118042,
+    "glb": 16607.75764799118,
+    "StationName": "徐庄·苏宁总部"
+  },
+  {
+    "upline": false,
+    "stationID": 12,
+    "railName": "G1605",
+    "railOffset": 9.6129117012023926,
+    "glb": 19161.257442951202,
+    "StationName": "金马路"
+  },
+  {
+    "upline": false,
+    "stationID": 13,
+    "railName": "G1705",
+    "railOffset": 6.1707072257995605,
+    "glb": 22396.8855509758,
+    "StationName": "汇通路"
+  },
+  {
+    "upline": false,
+    "stationID": 14,
+    "railName": "G1805",
+    "railOffset": 7.7008757591247559,
+    "glb": 23486.441110134125,
+    "StationName": "灵山"
+  },
+  {
+    "upline": false,
+    "stationID": 15,
+    "railName": "G1905",
+    "railOffset": 9.91032075881958,
+    "glb": 25555.68961763382,
+    "StationName": "东流"
+  },
+  {
+    "upline": false,
+    "stationID": 16,
+    "railName": "G2005",
+    "railOffset": 9.1874861717224121,
+    "glb": 27768.015611171722,
+    "StationName": "孟北"
+  },
+  {
+    "upline": false,
+    "stationID": 17,
+    "railName": "G2105",
+    "railOffset": 12.08794641494751,
+    "glb": 30161.974665164948,
+    "StationName": "西岗桦墅"
+  },
+  {
+    "upline": false,
+    "stationID": 18,
+    "railName": "G2205",
+    "railOffset": 8.7345080375671387,
+    "glb": 33395.422008037567,
+    "StationName": "仙林湖"
+  },
+  {
+    "upline": false,
+    "stationID": 0,
+    "railName": "G0501",
+    "railOffset": 0.0,
+    "glb": -0.7934722900390625,
+    "StationName": "线路终点"
+  }
+]
